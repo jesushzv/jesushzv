@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jesushzv
+- 👋 Hi, I’m Jesus Hector Zamora
 - 👀 I’m interested in software, entrepeneurship, reading and self development
-- 🌱 I’m currently learning React and SQL
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on any projects!!
 - 📫 How to reach me: jhector.zamora@hotmail.com
 
