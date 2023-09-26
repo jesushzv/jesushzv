@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Jesus Hector Zamora
-- 👀 I’m interested in software, entrepeneurship, reading and self development
-- 🌱 I’m currently learning Node.js
+- 👋 Hi, I’m Hector Zamora
+- 👀 I’m interested in software, entrepeneurship, MMA and self development
+- 🌱 I’m currently learning DS & Algorithms
 - 💞️ I’m looking to collaborate on any projects!!
-- 📫 How to reach me: jhector.zamora@hotmail.com
+- 📫 How to reach me: jhzamorav@gmail.com
 
 <!---
 jesushzv/jesushzv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
